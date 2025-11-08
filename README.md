@@ -21,7 +21,7 @@ This project was built as the final assignment for my second-semester **Object-O
 
 | Home (Light) | Home (Dark) | Quiz Feedback | Results Screen |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/home_light.jpg" alt="Home Screen Light Mode" width="200"/> | <img src="screenshots/home_dark.jpg" alt="Home Screen Dark Mode" width="200"/> | <img src="screenshots/quiz_feedback.jpg" alt="Quiz Feedback Screen" width="200"/> | <img src="screenshots/results.jpg" alt="Quiz Results Screen" width="200"/> |
+| <img src="screenshots/home_light.png" alt="Home Screen Light Mode" width="200"/> | <img src="screenshots/home_dark.png" alt="Home Screen Dark Mode" width="200"/> | <img src="screenshots/quiz_feedback.png" alt="Quiz Feedback Screen" width="200"/> | <img src="screenshots/results.png" alt="Quiz Results Screen" width="200"/> |
 
 ## ✨ Features
 
