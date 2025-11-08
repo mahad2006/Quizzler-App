@@ -74,7 +74,7 @@ This project is built using **MVVM (Model-View-ViewModel)** and is structured to
 The latest installable `.apk` file is available on the **Releases** page.
 
 1.  Navigate to the [**Latest Release**](https://github.com/mahad2006/Quizzler-App/releases/latest)
-2.  Under **Assets**, download the `app-release.apk` file
+2.  Under **Assets**, download the `Quizzler-v1.0.0.apk` file
 3.  Open it on your Android device (enable *Install from Unknown Sources* if prompted)
 
 ## 🛠️ Building from Source
